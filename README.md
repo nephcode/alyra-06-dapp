@@ -2,9 +2,9 @@
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-# UNDERCONSTRUCTION
+# ALYRA VOTING DAPP
 
-Personal template first init
+Personal Dapp & CI/CD Configuration 
 
 ## PROJECT DELIVERIES
 
