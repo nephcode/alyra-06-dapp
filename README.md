@@ -10,7 +10,7 @@ Personal Dapp & CI/CD Configuration
 
 | WHAT FOR               | WHEN         |
 | :--------------------- | ------------ |
-| Deadline MVP           | `25-01-2025` |
+| Deadline MVP           | `25-01-2025` |_
 | Deadline CERTIFICATION | `15-03-2025` |
 
 
