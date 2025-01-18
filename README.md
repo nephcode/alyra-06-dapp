@@ -5,12 +5,13 @@
 # ALYRA VOTING DAPP
 
 Personal Dapp & CI/CD Configuration 
+Monorepo
 
 ## PROJECT DELIVERIES
 
 | WHAT FOR               | WHEN         |
 | :--------------------- | ------------ |
-| Deadline MVP           | `25-01-2025` |_
+| Deadline MVP           | `25-01-2025` |
 | Deadline CERTIFICATION | `15-03-2025` |
 
 
