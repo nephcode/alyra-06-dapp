@@ -5,7 +5,7 @@
 # ALYRA VOTING DAPP
 
 Personal Dapp & CI/CD Configuration 
-Monorepo _ deploy Alyra VPS 
+Monorepo _ deploy Alyra VPS Coolify
 
 ## PROJECT DELIVERIES
 
